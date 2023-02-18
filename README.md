@@ -1,5 +1,4 @@
 # Layout menu: thebank
-<<<<<<< HEAD
 
 ## Visualização em desktop
 [<img src="./src/design/menu-thebank-desktop.png" alt="imagem do projeto layout menu: thebank no desktop">](https://duardohenrique.github.io/layout-menu-the-bank/)
