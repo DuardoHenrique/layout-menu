@@ -1,13 +1,13 @@
 # Layout menu: thebank
 
 ## Visualização em desktop
-[<a href="https://duardohenrique.github.io/layout-menu-the-bank/" target="_blank"><img src="./src/design/menu-thebank-desktop.png" alt="imagem do projeto layout menu: thebank no desktop"></a>]
+[<img src="./src/design/menu-thebank-desktop.png" alt="imagem do projeto layout menu: thebank no desktop">](https://duardohenrique.github.io/layout-menu-the-bank/)
 
 <br>
 
 ## Visualização em dispositivos móveis
-[<a href="https://duardohenrique.github.io/layout-menu-the-bank/" target="_blank"><img src="./src/design/menu-thebank-mobile.png" alt="imagem do projeto layout menu: thebank em dispositivos móveis"></a>]
-<p>(Clique na imagem para abrir o projeto em tempo real)</p>
+[<img src="./src/design/menu-thebank-mobile.png" alt="imagem do projeto layout menu: thebank em dispositivos móveis">](https://duardohenrique.github.io/layout-menu-the-bank/)
+<p>(Pressione CTRL + clique na imagem para abrir o projeto em uma nova guia)</p>
 
 <hr>
 <br>
