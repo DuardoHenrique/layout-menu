@@ -1,12 +1,13 @@
 @media (max-width: 768px) {
     .container {
         flex-direction: column;
+        
     }
-
 
     .container .logo {
         padding: 20px;
         margin-top: 10px;
+        justify-content: center;
     }
 
     .container .menu {
