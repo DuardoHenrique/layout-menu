@@ -1,0 +1,38 @@
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+
+
+    .container .logo {
+        padding: 20px;
+        margin-top: 10px;
+    }
+
+    .container .menu {
+        flex-direction: column;
+        margin-top: 30px;
+        font-size: 40px;
+    }
+
+    .container .menu li {
+        padding: 25px;
+    }
+
+    .container .logo h1 {
+        font-size: 40px;
+    }
+
+    .container .menu li a {
+        padding: 17px 40px;
+    }
+
+    .container .menu li  a.btn {
+        font-size: 18px;
+        padding: 15px 23px;
+    }
+
+    .container .menu li:last-child {
+        margin-top: 20px;
+    }
+}
